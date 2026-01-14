@@ -1,5 +1,3 @@
-<img width="1920" height="1032" alt="Screenshot 2026-01-13 190442" src="https://github.com/user-attachments/assets/de92ebe4-815c-4237-8d22-392c09bd437d" />
-
 
 # 🛡️ PenTest CLI Tool
 
